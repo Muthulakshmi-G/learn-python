@@ -1,1 +1,1 @@
-print('illustrates use of git')
+print('illustrates use of git in pluma')
